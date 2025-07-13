@@ -1,4 +1,4 @@
 # helloworld
 helloworld self test
 
-gugawala means 你好嗎
+"gugawala" means "你好嗎"
